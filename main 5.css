@@ -1,0 +1,571 @@
+
+.home
+{
+    background-image: url(../Html/Images/slider-01.jpg);
+    background-size: cover;
+    height: 750px;
+}
+.caption
+{
+    height: 100%;
+    background-color: rgba(0,0,0,0.8);
+}
+
+
+nav
+{
+    
+    text-align: center;
+    background-size: 10%;
+    background-repeat: no-repeat;
+    padding-left: 39%;
+
+}
+nav ul li
+{
+   
+   
+    font-size: 20px;
+    margin-bottom: 2px;
+    display: inline-block;
+    padding:5px 15px; 
+    
+}
+nav ul li a
+{
+    color:white;
+    text-decoration: none;
+    
+}
+.ab h3
+{
+ 
+    font-weight: 600;
+    margin: 0 0 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 22px;
+    color: white;
+   
+    text-align: center;
+}
+.ab h1
+{
+    
+    color: #ff305b;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 0 10px;
+    font-family:'Source Sans Pro', sans-serif;
+    font-size: 70px;
+   
+    
+    
+}
+.ab h4
+{   
+   
+    margin: 0 0 10px;
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+.ab
+{
+    
+    margin: 220px 100px 20px 160px;
+}
+
+.parant
+{
+    width: 100%;
+    height: 40%;
+    padding: 100px 0;
+    background-color: ghostwhite;
+}
+.member
+{ 
+    
+    
+     font-size: 30px;
+    font-weight: 500;
+    line-height: 30px;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    position: relative;
+    text-transform: capitalize;
+    
+}
+.member h2
+{
+   
+      padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    
+}
+
+.child
+{
+ 
+   float: left;
+    text-align: center;
+    width: 25%;
+    border:0;
+    color: blue
+    font-size: 100%;
+    font: inherit;
+}
+
+.child h3
+{
+   
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.child p
+{
+    
+    display:inline-block;
+    margin: 0;
+   
+    
+    
+}
+.test
+{
+       float: left;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    margin-left: 4%;
+}
+
+
+.xz
+{
+   
+    width: 95%;
+    height: 750px;
+    margin-left: 18px;
+}
+.mi h2
+{
+    
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 30px;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    position: relative;
+    text-transform: capitalize;
+    text-align: center;
+}
+.pi
+{
+   
+   margin-bottom: 50px;
+  text-align: center; 
+}
+.don
+{
+   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    color: #ff305b; 
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding: 3px 12px;
+    position: relative;
+    text-transform: uppercase;
+}
+.mak
+{
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none; 
+     font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding: 3px 12px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.na img
+{
+    background-color: gainsboro;
+     display: inline-block;
+    position: relative; 
+    width: 350px;
+    height: 270px;
+    margin-left: 39px;
+
+}
+.iphone
+{
+   
+    
+    
+    
+    margin-left: 15px;
+    background-color: #f1f1f1; 
+    width: 95%;
+    height: 50%;
+    padding: 10px;
+    
+    
+   
+   
+   
+}
+.shirt
+{
+   
+    
+    width: 100%;
+    height: 300px;
+    text-align: center;
+   
+    
+    
+}
+.karam
+{
+   
+    width: 20%;
+    height: 90px;
+    display: inline-block;
+    margin-bottom:  40px;
+    padding: 15px;
+    font-family:'Source Sans Pro', sans-serif; 
+    font-weight: 600;
+    color: #555555;
+    font-size: 16px;
+   
+}
+.karam h3
+{
+   font-size: 26px;
+    font-weight: 800;
+    margin: 65px 10px 0 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #333;
+}
+.poto
+{
+   
+    width: 20%;
+    height: 90px;
+    display: inline-block;
+    margin-top: 95px;
+    padding: 15px;
+    font-family:'Source Sans Pro', sans-serif; 
+    font-weight: 600;
+    color: #555555;
+    font-size: 16px;
+   
+}
+.poto h3
+{
+   font-size: 26px;
+    font-weight: 800;
+    margin: 95px 10px 0 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #333; 
+}
+.profil
+{
+
+    width: 100%;
+    height: 90%;
+    
+}
+.com{ 
+   
+    background-image: url(Images/profile.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+     width: 360;
+    height: 440px;
+    border-radius: 5px;
+   display:inline-block; 
+    position: relative;
+    border: 0;
+    font-size: 100%;
+    font: inheri;
+    margin-left: 80px
+}
+
+
+
+.com img
+{
+     width: 50%;
+    height: 50%;
+    
+   
+}
+.layar
+{
+  
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    margin-left: 400px;
+    padding: 20px;
+}
+.miss
+{
+   width: 450px;
+    height: 280px;
+    display: inline-block; 
+    
+    
+   
+    
+   
+}
+.miss ul
+{
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    
+    
+}
+.miss ul li
+{
+   color: #555555;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: 25px;
+    white-space: nowrap; 
+}
+.layar h2
+{
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 22px;
+    margin-bottom: 25px;
+    padding-left: 13px;
+    position: relative;
+    text-transform: uppercase;
+}
+.layar p
+{
+    border-bottom: 1px dashed #999999;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}
+.bnt1
+{
+    background: #ff305b none repeat scroll 0 0;
+    border-radius: 2px;
+    color: #ffffff;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px 24px;
+    
+    
+    transition: all 0.3s ease-in-out;
+}
+.bnt2
+{
+    background: #ff305b none repeat scroll 0 0;
+    border-radius: 2px;
+    color: #ffffff;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px 24px;
+   
+    
+    transition: all 0.3s ease-in-out;
+}
+.container
+{
+   
+    
+    width: 95%;
+    height: 50%;
+    margin-left: 35px;
+    display: inline-block;
+}
+
+play
+{
+  background-color: red;
+  width: 200px;
+  height: 200px; 
+  
+}
+.container h2
+{
+   font-size: 40px;
+    font-weight: 800;
+    line-height: 30px;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    position: relative;
+    text-transform: capitalize;
+    text-align: center;
+  
+} 
+.row
+{
+    background-color:#f1f1f1;
+    width: 700px;
+    height: 250px;
+    margin-left: 260px;
+ 
+}
+.row img
+{
+    width: 17%;
+    border-radius: 100px;
+    padding-left:  30px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+
+.lest 
+{
+   
+    width: 540px;
+    margin-bottom:  15px;
+    display: inline-block;
+    
+}
+.lest h3
+{
+    font-weight: 600;
+    margin: 0 0 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #333;
+    display: inline-block;
+}
+.lest p
+{
+    font-size: 16px;
+    font-style: italic;
+}
+.go
+{
+    
+    background-color: #f1f1f1;
+    width:100%;
+    height: 75%;
+    margin-top: 100px;
+   
+    
+}
+.go h2
+{
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 30px;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    position: relative;
+    text-transform: capitalize;
+    text-align: center;
+    
+}
+.go h2 before
+{
+     content: "";
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0; 
+}
+.item 
+{
+    background-color: orange;
+    width: 360px;
+    height: 202.5px;
+    float: left;
+    margin-left: 30px;
+    margin-right: 15px;
+    
+    
+   
+    
+}
+.item img
+{
+    width: 100%;
+   
+}
+.blue
+{
+    padding: 20px;
+    background: #ffffff;
+}
+.red
+{
+    margin-bottom: 15px;
+}
+
+
+.tag
+{
+   color: #333333; 
+}
+.clr
+{
+    clear: both;
+}
+.like h2
+{
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 30px;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    position: relative;
+    text-transform: capitalize;
+    text-align: center;
+  
+}
+.link
+{
+   
+    
+    width: 95%;
+   
+    
+    text-align: center;
+        
+}
+.blam
+{
+    margin-bottom: 25px;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+/
+
+
+
+
+
